@@ -4,7 +4,7 @@ Relaxer is a simple breathing application used to aid relaxation. The goal of th
 
 ## Live Demo
 
-Live version hosted [here](/)
+Live version hosted [here](https://frederick-chon.github.io/Relaxer/)
 
 ## Built Using
 
